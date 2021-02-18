@@ -1,6 +1,7 @@
 import os
 import time
 import pytz
+import chromedriver_binary
 from bs4 import BeautifulSoup
 from datetime import datetime
 from telegram_send import send
