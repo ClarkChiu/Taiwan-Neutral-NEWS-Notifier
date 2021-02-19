@@ -17,10 +17,11 @@
 
 # 消息來源
 
-- [島民衛星](https://islander.cc/) (修正)
-- [PTT 熱門文章](https://www.pttweb.cc/hot/all/today) (修正)
-- [Mobile01 熱門文章](https://www.mobile01.com/hottopics.php) (規劃)
-- [台灣地區 Youtube 熱門影片前 10 名](https://www.youtube.com/channel/UCBcIWZhWqUwknlxikVHQoyA) (規劃)
+- [島民衛星](https://islander.cc/)
+- [PTT 熱門](https://www.pttweb.cc/hot/all/today)
+- [Mobile01 熱門](https://www.mobile01.com/hottopics.php)
+- [台灣地區 Youtube 熱門影片前 10 名](https://www.youtube.com/channel/UCBcIWZhWqUwknlxikVHQoyA)
+- [Dcard 熱門](https://www.dcard.tw/f)
 
 # 程式流程
 
